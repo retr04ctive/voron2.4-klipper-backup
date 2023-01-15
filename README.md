@@ -73,3 +73,7 @@ allow-hotplug can0
 iface can0 can static
     bitrate 250000
     up ifconfig $IFACE txqueuelen 128
+
+
+
+#props to richardjm for the readme layout
