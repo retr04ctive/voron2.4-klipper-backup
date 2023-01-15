@@ -1,7 +1,7 @@
 # voron2.4-klipper-backup
 Automated backup of klipper config
 
-Voron 2.4 250mm v2.1906
+Voron 2.4 350mm 
 
 discord: WarCorgi
 
