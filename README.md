@@ -6,7 +6,7 @@ Voron 2.4 250mm v2.1906
 discord: WarCorgi
 
 # Features
-- [Can Bus - SHT36 v2](https://github.com/bigtreetech/EBB)
+- [Can Bus - BTT EBB36 v 1.2](https://github.com/bigtreetech/EBB)
 - [Magic Phoenix Kit w/CNC parts](https://github.com/MagicPhoenix/MPX-VORON-24R2-KIT)
 - [Git backup](https://github.com/th33xitus/kiauh/wiki/How-to-autocommit-config-changes-to-github%3F) - using [SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) authentication
 - [Nozzle Scrubber](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber)
